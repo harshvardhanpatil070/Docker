@@ -16,12 +16,16 @@ Add server.js file
 
 
 On aws
+
 clear 
+
 sudo apt update 
+
 git clone  link 
 
 
-get into Dockerfile folder  
+get into Dockerfile folder 
+
 ls(listing folders)
  (we'll see all the files that we have created in vs code)
 
